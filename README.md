@@ -1,0 +1,2 @@
+# SPINTex
+ Digital Twin)
